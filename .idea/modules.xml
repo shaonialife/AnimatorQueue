@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AnimatorQueue.iml" filepath="$PROJECT_DIR$/AnimatorQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animator_queue_library/animator_queue_library.iml" filepath="$PROJECT_DIR$/animator_queue_library/animator_queue_library.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
