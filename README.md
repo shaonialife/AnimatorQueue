@@ -4,6 +4,9 @@
 ```java
     from(View view);//从给定 View 创建动画队列
     newAnimation(); // 开启一个新动画
+    start();//开始执行动画
+    cancel();//取消正在执行的动画
+    clearAnimation();//清除动画队列 
     setDuration(long duration); // 设置动画时间
     setStartDelay(long startDelay); // 延时多少秒后执行动画
     setInterpolator(TimeInterpolator interpolator); // 设置时间插值器
